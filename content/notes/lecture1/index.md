@@ -5,6 +5,4 @@ draft = false
 math = true
 +++
 
-## Video
-
 {{< youtube YiqIkSHSmyc >}}
