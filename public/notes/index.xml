@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on MITx-18.6501x</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Notes on MITx-18.6501x</description>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Sep 2024 19:48:14 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 3: Parametric Statistical Models</title>
+      <link>http://localhost:1313/notes/lecture3/</link>
+      <pubDate>Tue, 17 Sep 2024 19:48:14 +0800</pubDate>
+      <guid>http://localhost:1313/notes/lecture3/</guid>
+      <description>&lt;!DOCTYPE HTML&gt;Statistical Model for a Censored Exponential 1 point possible (graded)
+Let $ X $ denote an exponential random variable with unknown parameter $ \lambda &amp;gt; 0 $. Let $ Y = \mathbb{I}(X &amp;gt; 5) $, the indicator that $ X $ is larger than 5.
+Recall the definition of the indicator function here is:
+$$ \mathbb{I}(X &amp;gt; 5) = \begin{cases} 1 &amp;amp; \text{if } X &amp;gt; 5 \\ 0 &amp;amp; \text{if } X \leq 5.</description>
+    </item>
+    <item>
+      <title>Lecture 2: Probability Redux</title>
+      <link>http://localhost:1313/notes/lecture2/</link>
+      <pubDate>Tue, 17 Sep 2024 00:24:28 +0800</pubDate>
+      <guid>http://localhost:1313/notes/lecture2/</guid>
+      <description>Two important probability tools SAT Up until 2015, the SAT had a &amp;ldquo;guessing penalty&amp;rdquo;. Consider an exam with 40 questions each with six possible choices. Only one is correct. Each correct answer is worth +20 points and each incorrect one is worth -5 points. Consider answering each question by rolling a six-sided die for each question and simply choosing the corresponding answer.
+What is your expected score for the first question?</description>
+    </item>
+  </channel>
+</rss>
